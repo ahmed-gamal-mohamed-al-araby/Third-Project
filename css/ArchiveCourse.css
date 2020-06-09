@@ -1,0 +1,113 @@
+
+.footer {
+    margin-top: 0
+}
+
+/* Start course-page */
+
+.course-page {
+    background-color: #333;
+    color: #FFF;
+    margin-bottom: 0
+}
+
+.course-page .box {
+    padding: 15px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    justify-content: center
+}
+
+.breadcrumb-item.active {
+    color: #01BAFD;
+}
+
+/* Start course-page */
+
+/* Start latest-course */
+
+.latest-course {
+    background-color: #F8F8F8;
+    margin-top: 0;
+    padding-top: 100px;
+    margin-top: 0
+}
+
+.latest-course .card {
+    margin-bottom: 30px;
+    margin-left: 0
+}
+
+.categorie,
+.popular-course,
+.archive,
+.cloud {
+    box-shadow: 0 3px 5px rgba(0, 0, 0, .1);
+    padding: 20px 20px 5px 20px;
+    margin-bottom: 30px;
+    background-color: #FFF
+}
+
+.categorie h4,
+.archive h4,
+.cloud {
+    margin-bottom: 10px;
+    font-weight: 400
+}
+
+.categorie ul li,
+.archive ul li {
+    padding-bottom: 5px;
+}
+
+.categorie ul li:before,
+.archive ul li:before {
+
+    font-family: 'FontAwesome';
+    content: '\F138';
+    margin-right: 5px;
+    display: inline-block
+}
+
+.categorie ul li:hover,
+.archive ul li:hover {
+    margin-left: 10px;
+    cursor: pointer;
+    color: #01BAFD;
+}
+
+.popular-course .media img {
+    max-width: 50px;
+    margin-right: 15px;
+}
+
+.popular-course h6:hover {
+    color: #01BAFD;
+    cursor: pointer
+}
+
+.cloud ul li {
+    border-bottom: 1px solid rgba(0, 0, 0, .2);
+    display: inline-block;
+    padding: 5px;
+    padding-bottom: 10px;
+}
+
+.cloud ul li:hover {
+    cursor: pointer;
+    color: #01BAFD;
+    border-bottom: 1px solid #01BAFD;
+}
+
+.pagination {
+    margin-left: 15px;
+}
+
+@media (max-width:767px) {
+  
+  .categorie {margin-top: 30px;}
+}
+
+/* End latest-course */

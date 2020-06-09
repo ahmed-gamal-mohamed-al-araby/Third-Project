@@ -1,0 +1,71 @@
+.footer {
+    margin-top: 0
+}
+
+.our-contact {
+    background-color: #333;
+    color: #FFF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    justify-content: center;
+}
+
+.breadcrumb .active {
+    color: #01bafd;
+}
+
+.contact-page {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.contact-page h1 {
+    font-weight: bold;
+    color: #000
+}
+
+.contact-page p {
+    color: #555;
+    font-weight: 600
+}
+
+.contact-page form {
+    margin-top: 50px;
+}
+
+.contact-page .map  {
+    margin-top: 50px;
+
+}
+
+.contact-page small {
+    color: #F00;
+    font-size: 20px;
+    text-align: center
+}
+
+.contact-page label {
+    font-weight: bold
+}
+
+.contact-page textarea {
+    height: 150px;
+    margin-bottom: 30px
+}
+
+.contact-page a {
+    color: #000;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 1px solid rgba(0, 0, 0, .5);
+}
+
+.contact-page a:hover {
+    color: #FFF;
+    background-color: #01BAFD;
+    border: none
+}

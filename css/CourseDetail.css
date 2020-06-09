@@ -1,0 +1,56 @@
+/* Start latest-course */
+
+
+
+.latest-course .card-body h4 {
+    margin-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, .4);
+    font-weight: 300
+}
+
+.latest-course .card-body ul li {
+    padding-bottom: 10px;
+}
+
+.latest-course .card-body .description p {
+    color: #333;
+    line-height: 1.7
+}
+
+.latest-course .card-body .description blockquote {
+    border-left: 4px solid rgba(0, 0, 0, .2);
+    padding: 8px;
+}
+
+.latest-course .card {
+    border: none;
+    box-shadow: 0 3x 5px rgba(0, 0, 0, .5)
+}
+
+.latest-course .title {
+    background-color: #FFF
+}
+
+.latest-course h4 {
+    font-weight: 300
+}
+
+.latest-course .owl-carousel {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.relatcourse h1 {
+    font-weight: 300
+}
+
+@media (max-width:767px) {
+  
+  .latest-course .card-body h2 {
+    font-size: 20px;
+}
+
+}
+
+/* End latest-course */

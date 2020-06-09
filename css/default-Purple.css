@@ -1,0 +1,72 @@
+.top-bar .links a:hover,
+.top-bar i:hover,
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .active > .nav-link ,
+.our-features .box i,
+.our-features .box a:hover,
+.latest-course .title a:hover,
+.latest-course .card-body a:hover,
+.latest-course .card-footer a,
+.testimonail .item a,
+.blog .card h4:hover,
+.blog .card a:hover,
+.copyright span:hover,
+.footer .box li:hover,
+.breadcrumb .active,
+.our-page404 .page404 p,
+.categorie ul li:hover,
+.archive ul li:hover,
+.popular-course h6:hover,
+.gallery-page .breadcrumb-item.active,
+.gallery ul li.active,
+.gallery ul li:hover
+{
+    color: #6610f2;
+}
+
+.dropdown-menu a:hover,
+.ex-slider .carousel-caption span,
+.ex-slider a.chevron,
+.our-teachers .card .links ,
+.blog .card button:hover,
+.footer button,
+.scroll-top,
+.option-box .gear-check,
+.our-page404 .page404 a:hover,
+.contact-page a:hover,
+.latest-course .card-body .social ul li:hover,
+.comment .media-body a:hover,
+.leave-comment a:hover,
+.gallery ul li,
+.ex-slider .carousel-caption a,
+.ex-slider .carousel-caption a:hover
+{
+  
+  background-color: #6610f2;
+}
+
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .active > .nav-link ,
+.cloud ul li:hover 
+{
+
+    border-bottom: 1px solid #6610f2;
+}
+
+.option-box .color-option {
+    border: 4px solid #6610f2;
+}
+
+.our-features .box i,
+.our-features .box a:hover,
+.gallery ul li.active,
+.gallery ul li:hover
+{
+    border: 1px solid #6610f2;
+}
+
+@media (max-width:767px) {
+  .navbar-light .navbar-nav .nav-link:hover,
+  .navbar-light .navbar-nav .active > .nav-link {
+    border-bottom: none
+  }
